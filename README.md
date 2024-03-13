@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 
 <h1 align="center">Hi 👋, I'm Kunal Koyande</h1>
-<h3 align="center">A passionate selenium/automation tester from India</h3>
+<h3 align="center">A passionate Developer and Automation tester from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47afripp2y0dhuioqyucd0oasrlzy8k2bxr104qma1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkoyande&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkoyande" /> </p>
